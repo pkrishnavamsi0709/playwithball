@@ -1,0 +1,60 @@
+@import url(//db.onlinewebfonts.com/c/7cc6719bd5f0310be3150ba33418e72e?family=Comic+Sans+MS);
+#container{
+    background-color: aqua;
+    width:500px;
+    height:500px;
+    border:3px solid;
+}
+#mybox{
+    margin:240px;
+    background-color:palegreen;
+    width: 10px;
+    height:10px;
+    border-radius:50%;
+    border:2px solid;
+    position:relative;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#vamsi{
+    color:orange;
+    font-size: large;
+    font-weight: 700;
+}
+
+#keys{
+    margin:20px;
+    margin-left:75px;
+}
+#up{
+    margin:20px;
+    background-color:red;
+    border-radius:5px;
+    font-size: large;
+    font-weight: 700;
+    font-family: "Comic Sans MS"; src: url("//db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+}
+#down{
+    margin:20px;
+    background-color:red;
+    border-radius:5px;
+    font-size: large;
+    font-weight: 700;
+    font-family: "Comic Sans MS"; src: url("//db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+}
+#right{
+    margin:20px;
+    background-color:red;
+    border-radius:5px;
+    font-size: large;
+    font-weight: 700;
+    font-family: "Comic Sans MS"; src: url("//db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+}
+#left{
+    margin:20px;
+    background-color:red;
+    border-radius:5px;
+    font-size: large;
+    font-weight: 700;
+    font-family: "Comic Sans MS"; src: url("//db.onlinewebfonts.com/t/7cc6719bd5f0310be3150ba33418e72e.eot");
+}
